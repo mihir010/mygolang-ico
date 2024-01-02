@@ -1,0 +1,18 @@
+go 1.21.4
+
+use (
+	./01hello
+	./02variables
+	./03userinput
+	./05mytime
+	./08arrray
+	./09slices
+	./10maps
+	./16methods
+	./19files
+	./20webrequests
+	./21urlhandling
+	./22server
+	./24buildingAPI
+	./25DbApi
+)
